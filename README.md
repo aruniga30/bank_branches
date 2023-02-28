@@ -9,6 +9,6 @@
 
 # Output
 - Request URL - /api/search?q=Mumbai&limit=2&offset=1
-<img width="70%" height= "70%" alt="decoder" src="https://user-images.githubusercontent.com/117024021/211224924-f84e80e8-d8d3-4c07-be1a-0e868f7b2883.png">
+<img width="70%" height= "70%" alt="decoder" src="https://github.com/aruniga30/bank_branches/blob/main/images/case1.jpeg">
 - Request URL - /api/branch?q=LONI&limit=1&offset=1 
-<img width="70%" height= "70%" alt="decoder" src="https://user-images.githubusercontent.com/117024021/211224924-f84e80e8-d8d3-4c07-be1a-0e868f7b2883.png">
+<img width="70%" height= "70%" alt="decoder" src="https://github.com/aruniga30/bank_branches/blob/main/images/case2.jpeg">
