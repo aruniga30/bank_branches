@@ -1,9 +1,9 @@
 # Bank Branches
-#Introduction
+# Introduction
 - Created a REST service that can fetch bank details, using the data given in the API’s query parameters.
 - Downloaded the dataset using the link provided and storded in SQLite 
 
-#Tools
+# Tools
 - Flask
 - SQLite
 
